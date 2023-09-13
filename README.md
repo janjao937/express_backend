@@ -1,6 +1,6 @@
 # express_backend
 
-- don't forget create .env file
+- don't forget toich .env file
 
 # npm install
 - npm i dotenv express
